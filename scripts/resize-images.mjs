@@ -8,7 +8,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // CONFIG
-const inputDir = path.join(__dirname, "nations");
+const inputDir = path.join(__dirname, "../players");
 const outputDir = path.join(inputDir, "28x28");
 const size = 28;
 
