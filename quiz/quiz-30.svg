@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+]>
+<svg version="1.1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="600px" height="600px" viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;"
+	 xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4EC928;}
+	.st1{fill:#12B3FF;}
+	.st2{fill:#687CFF;}
+	.st3{fill:#6536FF;}
+	.st4{fill:#C06AFF;}
+	.st5{fill:#C90FAA;}
+	.st6{fill:#FF5A79;}
+	.st7{fill:#FF6A14;}
+	.st8{fill:#FFFFFF;}
+	.st9{fill:none;}
+	.st10{adobe-knockout:true;}
+	.st11{fill:#C90FAA;stroke:#FFFFFF;stroke-width:10;stroke-linecap:round;stroke-miterlimit:10;adobe-knockout:false;}
+</style>
+<g id="Layer_2">
+	<rect class="st5" width="600" height="600"/>
+</g>
+<g id="Layer_1">
+	<g>
+		<g>
+			<path class="st8" d="M206,533C206,533,206,533,206,533c-10.6,0-20.4-4.2-27.8-11.7l-32-32.5l6.5-6.3c4.7-4.6,7.3-10.7,7.3-17.2
+				c0-13.2-10.8-24-24-24c-6.4,0-12.4,2.5-17,7l-6.4,6.4l-35.8-36.4c-7.3-7.4-11.2-17.2-11.2-27.7c0.1-10.4,4.2-20.2,11.6-27.5
+				L366.6,78.4c7.3-7.2,17-11.2,27.3-11.2c10.6,0,20.4,4.1,27.8,11.6l29.2,29.7l-6.6,6.3c-4.7,4.6-7.4,10.7-7.4,17.3
+				c0,13.2,10.8,24,24,24c6.4,0,12.5-2.5,17-7.1l6.4-6.5l38.6,39.2c7.3,7.4,11.2,17.2,11.2,27.7c-0.1,10.4-4.2,20.2-11.6,27.5
+				L233.4,521.7C226.1,528.9,216.4,533,206,533z M171.2,488.3l19.9,20.2c4,4,9.3,6.2,15,6.2c5.6,0,10.8-2.1,14.7-6L510,224.2
+				c4-3.9,6.2-9.2,6.2-14.8s-2.1-10.9-6-14.9l-26.5-26.9c-6.7,4.3-14.5,6.6-22.7,6.6c-23.2,0-42-18.8-42-42c0-8.4,2.4-16.4,7-23.2
+				l-17.2-17.4c-4-4-9.3-6.2-15-6.2c-5.6,0-10.8,2.1-14.7,6L90,375.8c-4,3.9-6.2,9.2-6.2,14.8s2.1,10.9,6,14.9l23.8,24.2
+				c6.7-4.3,14.5-6.6,22.6-6.6c23.2,0,42,18.8,42,42C178.1,473.5,175.7,481.5,171.2,488.3z"/>
+		</g>
+		<g>
+			<g>
+				
+					<rect x="283.9" y="172.6" transform="matrix(0.7035 0.7107 -0.7107 0.7035 217.2336 -157.4983)" class="st8" width="27" height="18"/>
+			</g>
+			<g>
+				<path class="st8" d="M393.9,291.9l-31.1-31.5l12.8-12.7l31.1,31.5L393.9,291.9z M347.2,244.7L316,213.3l12.8-12.7l31.1,31.5
+					L347.2,244.7z"/>
+			</g>
+			<g>
+				
+					<rect x="411.9" y="301.9" transform="matrix(0.7035 0.7107 -0.7107 0.7035 347.0681 -210.1247)" class="st8" width="27" height="18"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<path class="st8" d="M248.9,413.3c-15.7-1.7-30.1-8.3-41.6-19c-29.6-27.4-31.4-73.8-4-103.4c15.7-16.9,38.7-25.5,61.7-23
+						c15.7,1.7,30.1,8.3,41.6,19c14.3,13.3,22.6,31.3,23.4,50.9c0.8,19.5-6.1,38.2-19.4,52.5C295,407.3,271.9,415.9,248.9,413.3z
+						 M263.8,278.9c-19.5-2.1-39.1,5.2-52.4,19.6c-23.3,25.1-21.8,64.5,3.4,87.8c9.8,9.1,22.1,14.7,35.4,16.2
+						c19.5,2.1,39.1-5.2,52.4-19.6c11.3-12.2,17.1-28,16.5-44.6c-0.6-16.6-7.7-31.9-19.9-43.2C289.3,285.9,277.1,280.3,263.8,278.9z
+						"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<polygon class="st8" points="247.4,273.9 232.6,299.4 203,299.3 					"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<polygon class="st8" points="274.6,405.8 251,388.2 223.8,399.9 					"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<polygon class="st8" points="318.8,312.8 290.1,306.3 281.3,278 					"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<polygon class="st8" points="201.1,379.6 210.3,351.6 190.5,329.6 					"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<polygon class="st8" points="324.5,343.4 300.5,360.5 303.3,389.9 					"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<polygon class="st8" points="227,347.4 241.5,316 275.9,320.2 282.7,354.1 252.5,371 					"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					
+						<rect x="279.9" y="292" transform="matrix(0.7191 0.6949 -0.6949 0.7191 297.3251 -108.3437)" class="st8" width="5.5" height="43.1"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					
+						<rect x="216.2" y="306" transform="matrix(0.5061 0.8625 -0.8625 0.5061 383.7605 -52.578)" class="st8" width="43.1" height="5.5"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					
+						<rect x="217.5" y="327.1" transform="matrix(0.2177 0.976 -0.976 0.2177 512.6049 57.7992)" class="st8" width="5.5" height="43.1"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					
+						<rect x="229.9" y="375.2" transform="matrix(-9.683044e-02 0.9953 -0.9953 -9.683044e-02 652.0825 164.274)" class="st8" width="43.1" height="5.5"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					
+						<rect x="269" y="354" transform="matrix(0.931 0.365 -0.365 0.931 150.2819 -81.4474)" class="st8" width="43.2" height="5.5"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					
+						<rect x="345.1" y="117.1" transform="matrix(0.7079 0.7063 -0.7063 0.7079 203.0872 -204.2249)" class="st8" width="6.7" height="52.6"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					
+						<rect x="358.6" y="128.6" transform="matrix(0.7079 0.7063 -0.7063 0.7079 214.5709 -209.0056)" class="st8" width="2.9" height="52.6"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					
+						<rect x="365.8" y="141.1" transform="matrix(0.7079 0.7063 -0.7063 0.7079 227.0681 -214.2079)" class="st8" width="13.4" height="52.6"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					
+						<rect x="381.9" y="153.3" transform="matrix(0.7079 0.7063 -0.7063 0.7079 239.2274 -219.2697)" class="st8" width="5.7" height="52.6"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					
+						<rect x="394.1" y="165.5" transform="matrix(0.7079 0.7063 -0.7063 0.7079 251.3866 -224.3314)" class="st8" width="5.7" height="52.6"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					
+						<rect x="401.5" y="177.6" transform="matrix(0.7079 0.7063 -0.7063 0.7079 263.5461 -229.3933)" class="st8" width="15.3" height="52.6"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					
+						<rect x="419.6" y="189.5" transform="matrix(0.7079 0.7063 -0.7063 0.7079 275.3676 -234.3144)" class="st8" width="2.9" height="52.6"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					
+						<rect x="430.5" y="202.3" transform="matrix(0.7079 0.7063 -0.7063 0.7079 288.2025 -239.6575)" class="st8" width="6.7" height="52.6"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					
+						<rect x="439" y="214.2" transform="matrix(0.7079 0.7063 -0.7063 0.7079 300.0241 -244.5786)" class="st8" width="13.4" height="52.6"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					
+						<rect x="454.9" y="226.7" transform="matrix(0.7079 0.7063 -0.7063 0.7079 312.5211 -249.781)" class="st8" width="6.7" height="52.6"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+]>
+<svg version="1.1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="600px" height="600px" viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;"
+	 xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4EC928;}
+	.st1{fill:#12B3FF;}
+	.st2{fill:#687CFF;}
+	.st3{fill:#6536FF;}
+	.st4{fill:#C06AFF;}
+	.st5{fill:#C90FAA;}
+	.st6{fill:#FF5A79;}
+	.st7{fill:#FF6A14;}
+	.st8{fill:#FFFFFF;}
+	.st9{fill:none;}
+	.st10{adobe-knockout:true;}
+	.st11{fill:#C90FAA;stroke:#FFFFFF;stroke-width:10;stroke-linecap:round;stroke-miterlimit:10;adobe-knockout:false;}
+</style>
+<g id="Layer_2">
+	<rect class="st0" width="600" height="600"/>
+</g>
+<g id="Layer_1">
+	<g>
+		<g>
+			<polygon class="st8" points="300.5,156.8 271.1,177.2 281.5,143 252.9,121.3 288.7,120.6 300.5,86.8 312.3,120.6 348.1,121.3 
+				319.5,143 329.9,177.2 			"/>
+		</g>
+		<g>
+			<polygon class="st8" points="353.5,264.8 324.1,285.2 334.5,251 305.9,229.3 341.7,228.6 353.5,194.8 365.3,228.6 401.1,229.3 
+				372.5,251 382.9,285.2 			"/>
+		</g>
+		<g>
+			<polygon class="st8" points="461.5,264.8 432.1,285.2 442.5,251 413.9,229.3 449.7,228.6 461.5,194.8 473.3,228.6 509.1,229.3 
+				480.5,251 490.9,285.2 			"/>
+		</g>
+		<g>
+			<polygon class="st8" points="246.5,264.8 217.1,285.2 227.5,251 198.9,229.3 234.7,228.6 246.5,194.8 258.3,228.6 294.1,229.3 
+				265.5,251 275.9,285.2 			"/>
+		</g>
+		<g>
+			<polygon class="st8" points="409.5,368.8 380.1,389.2 390.5,355 361.9,333.3 397.7,332.6 409.5,298.8 421.3,332.6 457.1,333.3 
+				428.5,355 438.9,389.2 			"/>
+		</g>
+		<g>
+			<polygon class="st8" points="138.5,264.8 109.1,285.2 119.5,251 90.9,229.3 126.7,228.6 138.5,194.8 150.3,228.6 186.1,229.3 
+				157.5,251 167.9,285.2 			"/>
+		</g>
+		<g>
+			<polygon class="st8" points="193.5,368.8 164.1,389.2 174.5,355 145.9,333.3 181.7,332.6 193.5,298.8 205.3,332.6 241.1,333.3 
+				212.5,355 222.9,389.2 			"/>
+		</g>
+		<g>
+			<polygon class="st8" points="301.5,368.8 272.1,389.2 282.5,355 253.9,333.3 289.7,332.6 301.5,298.8 313.3,332.6 349.1,333.3 
+				320.5,355 330.9,389.2 			"/>
+		</g>
+		<g>
+			<polygon class="st8" points="409.5,466.8 380.1,487.2 390.5,453 361.9,431.3 397.7,430.6 409.5,396.8 421.3,430.6 457.1,431.3 
+				428.5,453 438.9,487.2 			"/>
+		</g>
+		<g>
+			<polygon class="st8" points="193.5,466.8 164.1,487.2 174.5,453 145.9,431.3 181.7,430.6 193.5,396.8 205.3,430.6 241.1,431.3 
+				212.5,453 222.9,487.2 			"/>
+		</g>
+		<g>
+			<polygon class="st8" points="301.5,466.8 272.1,487.2 282.5,453 253.9,431.3 289.7,430.6 301.5,396.8 313.3,430.6 349.1,431.3 
+				320.5,453 330.9,487.2 			"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+]>
+<svg version="1.1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="600px" height="600px" viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;"
+	 xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4EC928;}
+	.st1{fill:#12B3FF;}
+	.st2{fill:#687CFF;}
+	.st3{fill:#6536FF;}
+	.st4{fill:#C06AFF;}
+	.st5{fill:#C90FAA;}
+	.st6{fill:#FF5A79;}
+	.st7{fill:#FF6A14;}
+	.st8{fill:#FFFFFF;}
+	.st9{fill:none;}
+	.st10{adobe-knockout:true;}
+	.st11{fill:#C90FAA;stroke:#FFFFFF;stroke-width:10;stroke-linecap:round;stroke-miterlimit:10;adobe-knockout:false;}
+</style>
+<g id="Layer_2">
+	<rect class="st1" width="600" height="600"/>
+</g>
+<g id="Layer_1">
+	<g>
+		<g>
+			<g>
+				<g>
+					<path class="st8" d="M206.1,391.3L148,333.2l200.5-200.5l78.9-20.8l-20.8,78.9L206.1,391.3z M170.7,333.2l35.5,35.5
+						l186.2-186.2l12.7-48.2l-48.2,12.7L170.7,333.2z"/>
+				</g>
+				<g>
+					<path class="st8" d="M247.4,408.8c0,0-54.6-39-65.5-49.9c-10.9-10.9-49.9-65.5-49.9-65.5L108.7,320l57.3,54.9l54.9,57.3
+						L247.4,408.8z"/>
+				</g>
+				<g>
+					<g>
+						
+							<rect x="114.8" y="361.4" transform="matrix(0.7071 0.7071 -0.7071 0.7071 325.9173 23.0208)" class="st8" width="40.8" height="87.1"/>
+					</g>
+				</g>
+				<g>
+					<circle class="st8" cx="90" cy="448.8" r="28.1"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="st8" d="M173.8,372.4c-1.6,0-3.1-0.6-4.3-1.8c-2.4-2.4-2.4-6.2,0-8.6L302,229.5c2.4-2.4,6.2-2.4,8.6,0
+						s2.4,6.2,0,8.6L178,370.6C176.9,371.8,175.3,372.4,173.8,372.4z"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon class="st8" points="249,246.4 193.4,190.8 172.6,111.9 251.5,132.7 305.1,186.3 293.8,197.6 243.2,147.1 195,134.3 
+						207.7,182.5 260.3,235.1 					"/>
+				</g>
+				<g>
+					<polygon class="st8" points="393.9,391.3 293.9,291.3 305.2,280 393.9,368.7 429.3,333.2 341.2,245 352.5,233.7 452,333.2 
+											"/>
+				</g>
+				<g>
+					<path class="st8" d="M352.6,408.8c0,0,54.6-39,65.5-49.9c10.9-10.9,49.9-65.5,49.9-65.5l23.4,26.5L434,374.9l-54.9,57.3
+						L352.6,408.8z"/>
+				</g>
+				<g>
+					<g>
+						
+							<rect x="444.4" y="361.4" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 1079.8413 362.5699)" class="st8" width="40.8" height="87.1"/>
+					</g>
+				</g>
+				<g>
+					<circle class="st8" cx="510" cy="448.8" r="28.1"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="st8" d="M426.2,372.4c-1.6,0-3.1-0.6-4.3-1.8L320.2,268.9c-2.4-2.4-2.4-6.2,0-8.6s6.2-2.4,8.6,0l101.7,101.7
+						c2.4,2.4,2.4,6.2,0,8.6C429.3,371.8,427.8,372.4,426.2,372.4z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

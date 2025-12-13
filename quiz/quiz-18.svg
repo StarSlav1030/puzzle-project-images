@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+]>
+<svg version="1.1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="600px" height="600px" viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;"
+	 xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4EC928;}
+	.st1{fill:#12B3FF;}
+	.st2{fill:#687CFF;}
+	.st3{fill:#6536FF;}
+	.st4{fill:#C06AFF;}
+	.st5{fill:#C90FAA;}
+	.st6{fill:#FF5A79;}
+	.st7{fill:#FF6A14;}
+	.st8{fill:#FFFFFF;}
+	.st9{fill:none;}
+	.st10{adobe-knockout:true;}
+	.st11{fill:#C90FAA;stroke:#FFFFFF;stroke-width:10;stroke-linecap:round;stroke-miterlimit:10;adobe-knockout:false;}
+</style>
+<g id="Layer_2">
+	<rect class="st1" width="600" height="600"/>
+</g>
+<g id="Layer_1">
+	<g>
+		<g>
+			<g>
+				<path class="st8" d="M383.9,426c-28.6,0-56-9-79.1-26.1c-58.9-43.6-71.4-127.1-27.7-186.1c25-33.7,65-53.9,107-53.9
+					c28.6,0,56,9,79.1,26.1c28.6,21.1,47.2,52.1,52.4,87.3c5.2,35.1-3.5,70.2-24.7,98.8C465.9,405.9,425.9,426,383.9,426z
+					 M384.1,180c-35.7,0-69.7,17.1-90.9,45.8c-37.1,50.1-26.5,121,23.6,158.1c19.6,14.5,42.8,22.2,67.2,22.2
+					c35.7,0,69.7-17.1,90.9-45.8c18-24.3,25.4-54.1,21-83.9c-4.5-29.9-20.3-56.2-44.5-74.2C431.6,187.7,408.4,180,384.1,180z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon class="st8" points="353.4,174.3 331.7,223.3 278.2,229 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon class="st8" points="428.8,407.3 382.6,380.1 335.8,406.7 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon class="st8" points="490.3,230.4 437,224.3 415.6,174.9 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon class="st8" points="290.8,374.6 301.8,322.1 261.6,286.2 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon class="st8" points="506.6,284.5 466.5,320.2 477.5,372.9 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon class="st8" points="331.2,311.2 351.1,251.5 414.2,252.2 433.2,312.2 381.9,348.7 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<rect x="420.1" y="199.8" transform="matrix(0.7907 0.6122 -0.6122 0.7907 235.2883 -210.2169)" class="st8" width="10" height="78.5"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<rect x="303.7" y="234.2" transform="matrix(0.5973 0.802 -0.802 0.5973 329.9834 -178.7489)" class="st8" width="78.5" height="10"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<rect x="314.2" y="275.6" transform="matrix(0.323 0.9464 -0.9464 0.323 514.0322 -88.9549)" class="st8" width="10" height="78.5"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<rect x="342.3" y="356.6" transform="matrix(1.245915e-02 0.9999 -0.9999 1.245915e-02 738.364 -24.3948)" class="st8" width="78.5" height="10"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<rect x="408.6" y="310.4" transform="matrix(0.9653 0.2612 -0.2612 0.9653 97.9336 -106.033)" class="st8" width="78.6" height="10"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st8" d="M480.1,356.6L356,503.6c-2.8-7.5-7.4-14.3-13.8-20.3c-21.6-20.5-63.4-31.6-124.2-32.9
+				c-11.1-0.3-21.8-0.2-31.6,0.1l318.8-134.5l-7-16.6L154.6,444.3c18.4-30.5,30.3-62.4,35.3-95.1c5.1-33.2,3.2-67.1-5.7-101
+				c-10.1-38.6-26.8-67.9-37-83.4l343.6,96.8l4.9-17.3L178.9,155c27.7-9.6,60.7-26,77.6-52.7c8-12.6,11.7-26.3,11.2-40.9l178,135.6
+				l10.9-14.3L216.8,0h-29.7l60,45.7c5,17.6,3.1,33-5.8,47c-19.9,31.4-69.5,47-95.2,53.1L0,104.7v18.7l118.7,33.4l5.6,6.9
+				c0.3,0.3,28.4,35.3,42.5,89.1c8.2,31.5,10,63,5.3,93.7c-5.8,38.2-21.9,75.4-47.6,110.5L0,509.5v19.5L135.3,472h0.8l0.5-0.1
+				c0.4,0,38-4.6,80.9-3.6c55.5,1.3,94.3,10.9,112.3,28c7.3,6.9,11.1,15,11.4,24.7l-66.7,79h23.6l195.7-231.8L480.1,356.6z"/>
+		</g>
+	</g>
+</g>
+</svg>
